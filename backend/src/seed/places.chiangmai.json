@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Wat Phra That Doi Suthep",
+    "province": "Chiang Mai",
+    "category": "temple",
+    "description": "Iconic hilltop temple overlooking the city, reached by a 306-step naga staircase or a funicular.",
+    "location": { "type": "Point", "coordinates": [98.9217, 18.8048] },
+    "openHours": "06:00-18:00",
+    "avgVisitDurationMinutes": 90,
+    "tags": ["temple", "viewpoint", "iconic", "hilltop"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Wat Phra Singh",
+    "province": "Chiang Mai",
+    "category": "temple",
+    "description": "Revered temple in the Old City housing the Phra Singh Buddha image, classic Lanna architecture.",
+    "location": { "type": "Point", "coordinates": [98.9797, 18.7889] },
+    "openHours": "06:00-20:00",
+    "avgVisitDurationMinutes": 45,
+    "tags": ["temple", "old-city", "lanna"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Wat Chedi Luang",
+    "province": "Chiang Mai",
+    "category": "temple",
+    "description": "Massive 14th-century pagoda ruins in the heart of the Old City.",
+    "location": { "type": "Point", "coordinates": [98.9857, 18.7873] },
+    "openHours": "06:00-20:00",
+    "avgVisitDurationMinutes": 45,
+    "tags": ["temple", "old-city", "historic"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Sunday Walking Street (Ratchadamnoen Road)",
+    "province": "Chiang Mai",
+    "category": "market",
+    "description": "Weekly night market through the Old City with local crafts, street food, and live music.",
+    "location": { "type": "Point", "coordinates": [98.9863, 18.7883] },
+    "openHours": "Sunday 16:00-24:00",
+    "avgVisitDurationMinutes": 120,
+    "tags": ["market", "night", "food", "shopping", "sunday-only"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Chiang Mai Night Bazaar",
+    "province": "Chiang Mai",
+    "category": "market",
+    "description": "Long-running nightly market on Chang Klan Road with souvenirs, clothes, and food stalls.",
+    "location": { "type": "Point", "coordinates": [98.9930, 18.7869] },
+    "openHours": "18:00-24:00",
+    "avgVisitDurationMinutes": 90,
+    "tags": ["market", "night", "shopping", "food"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Warorot Market (Kad Luang)",
+    "province": "Chiang Mai",
+    "category": "market",
+    "description": "Chiang Mai's oldest and largest local market for produce, snacks, textiles, and street food.",
+    "location": { "type": "Point", "coordinates": [98.9925, 18.7908] },
+    "openHours": "04:00-17:00",
+    "avgVisitDurationMinutes": 60,
+    "tags": ["market", "local", "food", "morning"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Elephant Nature Park",
+    "province": "Chiang Mai",
+    "category": "nature",
+    "description": "Ethical elephant sanctuary where visitors observe and feed rescued elephants (no riding).",
+    "location": { "type": "Point", "coordinates": [98.9098, 19.2075] },
+    "openHours": "07:00-17:00",
+    "avgVisitDurationMinutes": 300,
+    "tags": ["nature", "wildlife", "ethical", "half-day"],
+    "priceLevel": 4
+  },
+  {
+    "name": "Doi Inthanon National Park",
+    "province": "Chiang Mai",
+    "category": "nature",
+    "description": "Thailand's highest peak, with waterfalls, cloud forest trails, and the twin royal pagodas.",
+    "location": { "type": "Point", "coordinates": [98.4870, 18.5883] },
+    "openHours": "05:30-18:30",
+    "avgVisitDurationMinutes": 300,
+    "tags": ["nature", "mountain", "waterfall", "full-day"],
+    "priceLevel": 2
+  },
+  {
+    "name": "Huay Tung Tao Lake",
+    "province": "Chiang Mai",
+    "category": "nature",
+    "description": "Relaxed lakeside spot at the foot of Doi Suthep with bamboo huts and lakeside food vendors.",
+    "location": { "type": "Point", "coordinates": [98.9370, 18.8460] },
+    "openHours": "08:00-19:00",
+    "avgVisitDurationMinutes": 120,
+    "tags": ["nature", "lake", "relaxed", "food"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Chiang Mai Old City Moat Loop",
+    "province": "Chiang Mai",
+    "category": "attraction",
+    "description": "Walk or cycle the square moat surrounding the historic Old City, passing gates and corner temples.",
+    "location": { "type": "Point", "coordinates": [98.9853, 18.7883] },
+    "openHours": "24 hours",
+    "avgVisitDurationMinutes": 60,
+    "tags": ["walking", "old-city", "free", "outdoor"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Chiang Mai Zoo",
+    "province": "Chiang Mai",
+    "category": "attraction",
+    "description": "Large hillside zoo including a panda exhibit and a walkable aquarium.",
+    "location": { "type": "Point", "coordinates": [98.9502, 18.8121] },
+    "openHours": "08:00-17:00",
+    "avgVisitDurationMinutes": 180,
+    "tags": ["family", "animals", "half-day"],
+    "priceLevel": 2
+  },
+  {
+    "name": "Chiang Mai National Museum",
+    "province": "Chiang Mai",
+    "category": "museum",
+    "description": "Overview of Lanna Kingdom history, Buddhist art, and northern Thai culture.",
+    "location": { "type": "Point", "coordinates": [98.9757, 18.8014] },
+    "openHours": "09:00-16:00, closed Mon-Tue",
+    "avgVisitDurationMinutes": 90,
+    "tags": ["museum", "history", "indoor"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Ristr8to Original",
+    "province": "Chiang Mai",
+    "category": "cafe",
+    "description": "Award-winning specialty coffee shop known for latte art, popular with digital nomads.",
+    "location": { "type": "Point", "coordinates": [98.9666, 18.7942] },
+    "openHours": "07:00-17:00",
+    "avgVisitDurationMinutes": 60,
+    "tags": ["coffee", "nomad-friendly", "trendy"],
+    "priceLevel": 2
+  },
+  {
+    "name": "Graph Cafe (Nimman)",
+    "province": "Chiang Mai",
+    "category": "cafe",
+    "description": "Minimalist cafe in trendy Nimmanhaemin known for Thai-style iced tea lattes.",
+    "location": { "type": "Point", "coordinates": [98.9673, 18.7995] },
+    "openHours": "08:00-18:00",
+    "avgVisitDurationMinutes": 45,
+    "tags": ["coffee", "nimman", "instagrammable"],
+    "priceLevel": 2
+  },
+  {
+    "name": "Nimmanhaemin Road (Nimman)",
+    "province": "Chiang Mai",
+    "category": "attraction",
+    "description": "Trendy district with boutique cafes, street art, galleries, and shopping malls.",
+    "location": { "type": "Point", "coordinates": [98.9666, 18.7989] },
+    "openHours": "10:00-22:00",
+    "avgVisitDurationMinutes": 120,
+    "tags": ["shopping", "cafe", "nightlife", "trendy"],
+    "priceLevel": 2
+  },
+  {
+    "name": "Wat Umong",
+    "province": "Chiang Mai",
+    "category": "temple",
+    "description": "Forest temple with ancient brick tunnels and a peaceful woodland setting, less crowded.",
+    "location": { "type": "Point", "coordinates": [98.9509, 18.7908] },
+    "openHours": "06:00-18:00",
+    "avgVisitDurationMinutes": 60,
+    "tags": ["temple", "forest", "quiet", "off-beaten-path"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Bua Thong Waterfalls (Sticky Falls)",
+    "province": "Chiang Mai",
+    "category": "nature",
+    "description": "Limestone waterfall you can climb barefoot thanks to its grippy mineral surface.",
+    "location": { "type": "Point", "coordinates": [99.0764, 19.2028] },
+    "openHours": "08:00-18:00",
+    "avgVisitDurationMinutes": 150,
+    "tags": ["nature", "waterfall", "adventure", "half-day"],
+    "priceLevel": 1
+  },
+  {
+    "name": "Chiang Mai Gate Food Stalls",
+    "province": "Chiang Mai",
+    "category": "market",
+    "description": "Casual open-air street food stalls near the southern Old City gate, popular for dinner.",
+    "location": { "type": "Point", "coordinates": [98.9835, 18.7825] },
+    "openHours": "17:00-23:00",
+    "avgVisitDurationMinutes": 60,
+    "tags": ["food", "street-food", "evening", "local"],
+    "priceLevel": 1
+  }
+]

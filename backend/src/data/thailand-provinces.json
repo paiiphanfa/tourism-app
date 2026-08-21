@@ -1,0 +1,1394 @@
+{
+  "provinces": [
+    {
+      "name": "อำนาจเจริญ",
+      "nameEn": "Amnat Charoen",
+      "districts": [
+        "Mueang Amnat Charoen",
+        "Chanuman",
+        "Pathum Ratchawongsa",
+        "Phana",
+        "Senangkhanikhom",
+        "Hua Taphan",
+        "Lue Amnat"
+      ]
+    },
+    {
+      "name": "อ่างทอง",
+      "nameEn": "Ang Thong",
+      "districts": [
+        "Mueang Ang Thong",
+        "Chaiyo",
+        "Pa Mok",
+        "Pho Thong",
+        "Sawaeng Ha",
+        "Wiset Chai Chan",
+        "Samko"
+      ]
+    },
+    {
+      "name": "กรุงเทพมหานคร",
+      "nameEn": "Bangkok",
+      "districts": [
+        "Phra Nakhon",
+        "Dusit",
+        "Nong Chok",
+        "Bang Rak",
+        "Bang Khen",
+        "Bang Kapi",
+        "Pathum Wan",
+        "Pom Prap Sattruphai",
+        "Phra Khanong",
+        "Min Buri",
+        "Lat Krabang",
+        "Yannawa",
+        "Samphanthawong",
+        "Phaya Thai",
+        "Thon Buri",
+        "Bangkok Yai",
+        "Huai Khwang",
+        "Khlong San",
+        "Taling Chan",
+        "Bangkok Noi",
+        "Bang Khun Thian",
+        "Phasi Charoen",
+        "Nong Khaem",
+        "Rat Burana",
+        "Bang Phlat",
+        "Din Daeng",
+        "Bung Kum",
+        "Sathon",
+        "Bang Su",
+        "Chatuchak",
+        "Bang Kho Laem",
+        "Prawet",
+        "Khlong Toei",
+        "Suan Luang",
+        "Chom Thong",
+        "Don Mueang",
+        "Rat Thewi",
+        "Lat Phrao",
+        "Watthana",
+        "Bang Khae",
+        "Lak Si",
+        "Sai Mai",
+        "Khanna Yao",
+        "Saphan Sung",
+        "Wang Thong Lang",
+        "Khlong Sam Wa",
+        "Bang Na",
+        "Thawi Watthana",
+        "Thung Khu",
+        "Bang Bon"
+      ]
+    },
+    {
+      "name": "บึงกาฬ",
+      "nameEn": "Bueng Kan",
+      "districts": [
+        "Bueng Kan",
+        "Phon Charoen",
+        "So Phisai",
+        "Seka",
+        "Pak Khat",
+        "Bueng Khong Long",
+        "Si Wilai",
+        "Bung Khla"
+      ]
+    },
+    {
+      "name": "บุรีรัมย์",
+      "nameEn": "Buri Ram",
+      "districts": [
+        "Mueang Buri Ram",
+        "Khu Mueang",
+        "Krasang",
+        "Nang Rong",
+        "Nong Ki",
+        "Lahan Sai",
+        "Prakhon Chai",
+        "Ban Kruat",
+        "Phutthaisong",
+        "Lam Plai Mat",
+        "Satuek",
+        "Pakham",
+        "Na Pho",
+        "Nong Hong",
+        "Phlapphla Chai",
+        "Huai Rat",
+        "Non Din Daeng",
+        "Chamni",
+        "Ban Mai Chaiyaphot",
+        "Non Din Daeng",
+        "Ban Dan",
+        "Khaen Dong",
+        "Chaloem Phra Kiet"
+      ]
+    },
+    {
+      "name": "ฉะเชิงเทรา",
+      "nameEn": "Chachoengsao",
+      "districts": [
+        "Mueang Chachoengsao",
+        "Bang Khla",
+        "Bang Nam Priao",
+        "Bang Pakong",
+        "Ban Pho",
+        "Phanom Sarakham",
+        "Ratchasan",
+        "Sanam Chai Khet",
+        "Pleang Yao",
+        "Tha Takiap",
+        "Khlong Khuean"
+      ]
+    },
+    {
+      "name": "ชัยนาท",
+      "nameEn": "Chai Nat",
+      "districts": [
+        "Mueang Chai Nat",
+        "Manorom",
+        "Wat Sing",
+        "Sapphaya",
+        "Sankhaburi",
+        "Hankha",
+        "Nong Mamong",
+        "Noen Kham"
+      ]
+    },
+    {
+      "name": "ชัยภูมิ",
+      "nameEn": "Chaiyaphum",
+      "districts": [
+        "Mueang Chaiyaphum",
+        "Ban Khwao",
+        "Khon Sawan",
+        "Kaset Sombun",
+        "Nong Bua Daeng",
+        "Chatturat",
+        "Bamnet Narong",
+        "Nong Bua Rawe",
+        "Thep Sathit",
+        "Phu Khiao",
+        "Ban Thaen",
+        "Kaeng Khro",
+        "Khon San",
+        "Phakdi Chumphon",
+        "Noen Sa-Nga",
+        "Sap Yai"
+      ]
+    },
+    {
+      "name": "จันทบุรี",
+      "nameEn": "Chanthaburi",
+      "districts": [
+        "Mueang Chanthaburi",
+        "Khlung",
+        "Tha Mai",
+        "Pong Nam Ron",
+        "Makham",
+        "Laem Sing",
+        "Soi Dao",
+        "Kaeng Hang Maeo",
+        "Na Yai Am",
+        "Khao Khitchakut"
+      ]
+    },
+    {
+      "name": "เชียงใหม่",
+      "nameEn": "Chiang Mai",
+      "districts": [
+        "Mueang Chiang Mai",
+        "Chom Thong",
+        "Mae Chaem",
+        "Chiang Dao",
+        "Doi Saket",
+        "Mae Taeng",
+        "Mae Rim",
+        "Samoeng",
+        "Fang",
+        "Mae Ai",
+        "Phrao",
+        "San Pa Tong",
+        "San Kamphaeng",
+        "San Sai",
+        "Hang Dong",
+        "Hot",
+        "Doi Tao",
+        "Omkoi",
+        "Saraphi",
+        "Wiang Haeng",
+        "Chai Prakan",
+        "Mae Wang",
+        "Mae On",
+        "Doi Lo",
+        "Kanlayaniwatthana"
+      ]
+    },
+    {
+      "name": "เชียงราย",
+      "nameEn": "Chiang Rai",
+      "districts": [
+        "Mueang Chiang Rai",
+        "Wiang Chai",
+        "Chiang Khong",
+        "Thoeng",
+        "Phan",
+        "Pa Daet",
+        "Mae Chan",
+        "Chiang Saen",
+        "Mae Sai",
+        "Mae Suai",
+        "Wiang Pa Pao",
+        "Phaya Mengrai",
+        "Wiang Kaen",
+        "Khun Tan",
+        "Mae Fa Luang",
+        "Mae Lao",
+        "Wiang Chiang Rung",
+        "Doi Luang"
+      ]
+    },
+    {
+      "name": "ชลบุรี",
+      "nameEn": "Chon Buri",
+      "districts": [
+        "Mueang Chon Buri",
+        "Ban Bueng",
+        "Nong Yai",
+        "Bang Lamung",
+        "Phan Thong",
+        "Phanat Nikhom",
+        "Si Racha",
+        "Ko Sichang",
+        "Sattahip",
+        "Bo Thong",
+        "Ko Chan"
+      ]
+    },
+    {
+      "name": "ชุมพร",
+      "nameEn": "Chumphon",
+      "districts": [
+        "Mueang Chumphon",
+        "Tha Sae",
+        "Pathio",
+        "Lang Suan",
+        "Lamae",
+        "Phato",
+        "Sawi",
+        "Thung Tako"
+      ]
+    },
+    {
+      "name": "กาฬสินธุ์",
+      "nameEn": "Kalasin",
+      "districts": [
+        "Mueang Kalasin",
+        "Na Mon",
+        "Kamalasai",
+        "Rong Kham",
+        "Kuchinarai",
+        "Khao Wong",
+        "Yang Talat",
+        "Huai Mek",
+        "Sahatsakhan",
+        "Kham Muang",
+        "Tha Khantho",
+        "Nong Kung Si",
+        "Somdet",
+        "Huai Phueng",
+        "Sam Chai",
+        "Na Khu",
+        "Don Chan",
+        "Khong Chai"
+      ]
+    },
+    {
+      "name": "กำแพงเพชร",
+      "nameEn": "Kamphaeng Phet",
+      "districts": [
+        "Mueang Kamphaeng Phet",
+        "Sai Ngam",
+        "Khlong Lan",
+        "Khanu Woralaksaburi",
+        "Khlong Khlung",
+        "Phran Kratai",
+        "Lan Krabue",
+        "Sai Thong Watthana",
+        "Pang Sila Thong",
+        "Bueng Samakkhi",
+        "Kosamphi Nakhon"
+      ]
+    },
+    {
+      "name": "กาญจนบุรี",
+      "nameEn": "Kanchanaburi",
+      "districts": [
+        "Mueang Kanchanaburi",
+        "Sai Yok",
+        "Bo Phloi",
+        "Si Sawat",
+        "Tha Maka",
+        "Tha Muang",
+        "Thong Pha Phum",
+        "Sangkhla Buri",
+        "Phanom Thuan",
+        "Lao Khwan",
+        "Dan Makham Tia",
+        "Nong Prue",
+        "Huai Krachao"
+      ]
+    },
+    {
+      "name": "ขอนแก่น",
+      "nameEn": "Khon Kaen",
+      "districts": [
+        "Mueang Khon Kaen",
+        "Ban Fang",
+        "Phra Yuen",
+        "Nong Ruea",
+        "Chum Phae",
+        "Si Chomphu",
+        "Nam Phong",
+        "Ubolratana",
+        "Kranuan",
+        "Ban Phai",
+        "Pueai Noi",
+        "Phon",
+        "Waeng Yai",
+        "Waeng Noi",
+        "Nong Song Hong",
+        "Phu Wiang",
+        "Mancha Khiri",
+        "Chonnabot",
+        "Khao Suan Kwang",
+        "Phu Phaman",
+        "Sam Sung",
+        "Khok Pho Chai",
+        "Nong Na Kham",
+        "Ban Haet",
+        "Non Sila",
+        "Wiang Kao"
+      ]
+    },
+    {
+      "name": "กระบี่",
+      "nameEn": "Krabi",
+      "districts": [
+        "Mueang Krabi",
+        "Khao Phanom",
+        "Ko Lanta",
+        "Khlong Thom",
+        "Ao Luek",
+        "Plai Phraya",
+        "Lam Thap",
+        "Nuea Khlong"
+      ]
+    },
+    {
+      "name": "ลำปาง",
+      "nameEn": "Lampang",
+      "districts": [
+        "Mueang Lampang",
+        "Mae Mo",
+        "Ko Kha",
+        "Soem Ngam",
+        "Ngao",
+        "Chae Hom",
+        "Wang Nuea",
+        "Thoen",
+        "Mae Phrik",
+        "Mae Tha",
+        "Sop Prap",
+        "Hang Chat",
+        "Mueang Pan"
+      ]
+    },
+    {
+      "name": "ลำพูน",
+      "nameEn": "Lamphun",
+      "districts": [
+        "Mueang Lamphun",
+        "Mae Tha",
+        "Ban Hong",
+        "Li",
+        "Thung Hua Chang",
+        "Pa Sang",
+        "Ban Thi",
+        "Wiang Nong Long"
+      ]
+    },
+    {
+      "name": "ลพบุรี",
+      "nameEn": "Loburi",
+      "districts": [
+        "Mueang Lop Buri",
+        "Phatthana Nikhom",
+        "Khok Samrong",
+        "Chai Badan",
+        "Tha Wung",
+        "Ban Mi",
+        "Tha Luang",
+        "Sa Bot",
+        "Khok Charoen",
+        "Lam Sonthi",
+        "Nong Muang"
+      ]
+    },
+    {
+      "name": "เลย",
+      "nameEn": "Loei",
+      "districts": [
+        "Mueang Loei",
+        "Na Duang",
+        "Chiang Khan",
+        "Pak Chom",
+        "Dan Sai",
+        "Na Haeo",
+        "Phu Ruea",
+        "Tha Li",
+        "Wang Saphung",
+        "Phu Kradueng",
+        "Phu Luang",
+        "Pha Khao",
+        "Erawan",
+        "Nong Hin"
+      ]
+    },
+    {
+      "name": "แม่ฮ่องสอน",
+      "nameEn": "Mae Hong Son",
+      "districts": [
+        "Mueang Mae Hong Son",
+        "Khun Yuam",
+        "Pai",
+        "Mae Sariang",
+        "Mae La Noi",
+        "Sop Moei",
+        "Pang Mapha"
+      ]
+    },
+    {
+      "name": "มหาสารคาม",
+      "nameEn": "Maha Sarakham",
+      "districts": [
+        "Mueang Maha Sarakham",
+        "Kae Dam",
+        "Kosum Phisai",
+        "Kantharawichai",
+        "Chiang Yuen",
+        "Borabue",
+        "Na Chueak",
+        "Phayakkhaphum Phisai",
+        "Wapi Pathum",
+        "Na Dun",
+        "Yang Sisurat",
+        "Kut Rang",
+        "Chuen Chom"
+      ]
+    },
+    {
+      "name": "มุกดาหาร",
+      "nameEn": "Mukdahan",
+      "districts": [
+        "Mueang Mukdahan",
+        "Nikhom Kham Soi",
+        "Don Tan",
+        "Don Tan",
+        "Khamcha-I",
+        "Wan Yai",
+        "Nong Sung"
+      ]
+    },
+    {
+      "name": "นครนายก",
+      "nameEn": "Nakhon Nayok",
+      "districts": [
+        "Mueang Nakhon Nayok",
+        "Pak Phli",
+        "Ban Na",
+        "Ongkharak"
+      ]
+    },
+    {
+      "name": "นครปฐม",
+      "nameEn": "Nakhon Pathom",
+      "districts": [
+        "Mueang Nakhon Pathom",
+        "Kamphaeng Saen",
+        "Nakhon Chai Si",
+        "Don Tum",
+        "Bang Len",
+        "Sam Phran",
+        "Phutthamonthon"
+      ]
+    },
+    {
+      "name": "นครพนม",
+      "nameEn": "Nakhon Phanom",
+      "districts": [
+        "Mueang Nakhon Phanom",
+        "Pla Pak",
+        "Tha Uthen",
+        "Ban Phaeng",
+        "That Phanom",
+        "Renu Nakhon",
+        "Na Kae",
+        "Si Songkhram",
+        "Na Wa",
+        "Phon Sawan",
+        "Na Thom",
+        "Wang Yang"
+      ]
+    },
+    {
+      "name": "นครราชสีมา",
+      "nameEn": "Nakhon Ratchasima",
+      "districts": [
+        "Mueang Nakhon Ratchasima",
+        "Khon Buri",
+        "Soeng Sang",
+        "Khong",
+        "Ban Lueam",
+        "Chakkarat",
+        "Chok Chai",
+        "Dan Khun Thot",
+        "Non Thai",
+        "Non Sung",
+        "Kham Sakaesaeng",
+        "Bua Yai",
+        "Prathai",
+        "Pak Thong Chai",
+        "Phimai",
+        "Huai Thalaeng",
+        "Chum Phuang",
+        "Sung Noen",
+        "Kham Thale So",
+        "Si Khio",
+        "Pak Chong",
+        "Nong Bunmak",
+        "Kaeng Sanam Nang",
+        "Non Daeng",
+        "Wang Nam Khiao",
+        "Thepharak",
+        "Mueang Yang",
+        "Phra Thong Kham",
+        "Lamtaman Chai",
+        "Bua Lai",
+        "Sida",
+        "Chaloem Phra Kiet"
+      ]
+    },
+    {
+      "name": "นครสวรรค์",
+      "nameEn": "Nakhon Sawan",
+      "districts": [
+        "Mueang Nakhon Sawan",
+        "Krok Phra",
+        "Chum Saeng",
+        "Nong Bua",
+        "Banphot Phisai",
+        "Kao Liao",
+        "Takhli",
+        "Tha Tako",
+        "Phaisali",
+        "Phayuha Hkiri",
+        "Lat Yao",
+        "Tak Fa",
+        "Mae Wong",
+        "Mae Pern",
+        "Chum Ta Bong"
+      ]
+    },
+    {
+      "name": "นครศรีธรรมราช",
+      "nameEn": "Nakhon Si Thammarat",
+      "districts": [
+        "Mueang Nakhon Si Thammarat",
+        "Phrom Khiri",
+        "Lan Saka",
+        "Chawang",
+        "Phipun",
+        "Chian Yai",
+        "Cha-Uat",
+        "Tha Sala",
+        "Thung Song",
+        "Na Bon",
+        "Thung Yai",
+        "Pak Phanang",
+        "Ron Phibun",
+        "Sichon",
+        "Khanom",
+        "Hua Sai",
+        "Bang Khan",
+        "Tham Phannara",
+        "Chulabhorn",
+        "Phra Phrom",
+        "Nopphitam",
+        "Chang Klang",
+        "Chaloem Phra Kiet"
+      ]
+    },
+    {
+      "name": "น่าน",
+      "nameEn": "Nan",
+      "districts": [
+        "Mueang Nan",
+        "Mae Charim",
+        "Ban Luang",
+        "Na Noi",
+        "Pua",
+        "Tha Wang Pha",
+        "Wiang Sa",
+        "Thung Chang",
+        "Chiang Klang",
+        "Na Muen",
+        "Santi Suk",
+        "Bo Kluea",
+        "Song Khwae",
+        "Phu Phiang",
+        "Chaloem Phra Kiet"
+      ]
+    },
+    {
+      "name": "นราธิวาส",
+      "nameEn": "Narathiwat",
+      "districts": [
+        "Mueang Narathiwat",
+        "Tak Bai",
+        "Tak Bai",
+        "Yi-Ngo",
+        "Ra-Ngae",
+        "Rueso",
+        "Si Sakhon",
+        "Waeng",
+        "Sukhirin",
+        "Su-Ngai Kolok",
+        "Su-Ngai Padi",
+        "Chanae",
+        "Cho-Airong"
+      ]
+    },
+    {
+      "name": "หนองบัวลำภู",
+      "nameEn": "Nong Bua Lam Phu",
+      "districts": [
+        "Mueang Nong Bua Lam Phu",
+        "Na Klang",
+        "Non Sang",
+        "Si Bun Rueang",
+        "Suwannakhuha",
+        "Na Wang"
+      ]
+    },
+    {
+      "name": "หนองคาย",
+      "nameEn": "Nong Khai",
+      "districts": [
+        "Mueang Nong Khai",
+        "Tha Bo",
+        "Phon Phisai",
+        "Si Chiang Mai",
+        "Sangkhom",
+        "Sakhrai",
+        "Fao Rai",
+        "Rattanawapi",
+        "Pho Tak"
+      ]
+    },
+    {
+      "name": "นนทบุรี",
+      "nameEn": "Nonthaburi",
+      "districts": [
+        "Mueang Nonthaburi",
+        "Bang Kruai",
+        "Bang Yai",
+        "Bang Bua Thong",
+        "Sai Noi",
+        "Pak Kret"
+      ]
+    },
+    {
+      "name": "ปทุมธานี",
+      "nameEn": "Pathum Thani",
+      "districts": [
+        "Mueang Pathum Thani",
+        "Khlong Luang",
+        "Thanyaburi",
+        "Nong Suea",
+        "Lat Lum Kaeo",
+        "Lam Luk Ka",
+        "Sam Khok"
+      ]
+    },
+    {
+      "name": "ปัตตานี",
+      "nameEn": "Pattani",
+      "districts": [
+        "Mueang Pattani",
+        "Khok Pho",
+        "Nong Chik",
+        "Panare",
+        "Mayo",
+        "Thung Yang Daeng",
+        "Sai Buri",
+        "Mai Kaen",
+        "Yaring",
+        "Yarang",
+        "Kapho",
+        "Mae Lan"
+      ]
+    },
+    {
+      "name": "พังงา",
+      "nameEn": "Phangnga",
+      "districts": [
+        "Mueang Phang-Nga",
+        "Ko Yao",
+        "Kapong",
+        "Takua Thung",
+        "Takua Pa",
+        "Khura Buri",
+        "Thap Put",
+        "Thai Mueang"
+      ]
+    },
+    {
+      "name": "พัทลุง",
+      "nameEn": "Phatthalung",
+      "districts": [
+        "Mueang Phatthalung",
+        "Kong Ra",
+        "Khao Chaison",
+        "Tamot",
+        "Khuan Khanun",
+        "Pak Phayun",
+        "Si Banphot",
+        "Pa Bon",
+        "Bang Kaeo",
+        "Pa Phayom",
+        "Srinagarindra"
+      ]
+    },
+    {
+      "name": "พะเยา",
+      "nameEn": "Phayao",
+      "districts": [
+        "Mueang Phayao",
+        "Chun",
+        "Chiang Kham",
+        "Chiang Muan",
+        "Dok Khamtai",
+        "Pong",
+        "Mae Chai",
+        "Phu Sang",
+        "Phu Kamyao"
+      ]
+    },
+    {
+      "name": "เพชรบูรณ์",
+      "nameEn": "Phetchabun",
+      "districts": [
+        "Mueang Phetchabun",
+        "Chon Daen",
+        "Lom Sak",
+        "Lom Kao",
+        "Wichian Buri",
+        "Si Thep",
+        "Nong Phai",
+        "Bueng Sam Phan",
+        "Nam Nao",
+        "Wang Pong",
+        "Khao Kho"
+      ]
+    },
+    {
+      "name": "เพชรบุรี",
+      "nameEn": "Phetchaburi",
+      "districts": [
+        "Mueang Phetchaburi",
+        "Khao Yoi",
+        "Nong Ya Plong",
+        "Cha-Am",
+        "Tha Yang",
+        "Ban Lat",
+        "Ban Laem",
+        "Kaeng Krachan"
+      ]
+    },
+    {
+      "name": "พิจิตร",
+      "nameEn": "Phichit",
+      "districts": [
+        "Mueang Phichit",
+        "Wang Sai Phun",
+        "Pho Prathap Chang",
+        "Taphan Hin",
+        "Bang Mun Nak",
+        "Pho Thale",
+        "Sam Ngam",
+        "Tap Khlo",
+        "Sak Lek",
+        "Bueng Na Rang",
+        "Dong Charoen",
+        "Wachirabarami"
+      ]
+    },
+    {
+      "name": "พิษณุโลก",
+      "nameEn": "Phitsanulok",
+      "districts": [
+        "Mueang Phitsanulok",
+        "Nakhon Thai",
+        "Chat Trakan",
+        "Bang Rakam",
+        "Bang Krathum",
+        "Phrom Phiram",
+        "Wat Bot",
+        "Wang Thong",
+        "Noen Maprang"
+      ]
+    },
+    {
+      "name": "แพร่",
+      "nameEn": "Phrae",
+      "districts": [
+        "Mueang Phrae",
+        "Mueang Phrae",
+        "Long",
+        "Sung Men",
+        "Den Chai",
+        "Song",
+        "Wang Chin",
+        "Nong Muang Khai"
+      ]
+    },
+    {
+      "name": "พระนครศรีอยุธยา",
+      "nameEn": "Phra Nakhon Si Ayutthaya",
+      "districts": [
+        "Phra Nakhon Si Ayutthaya",
+        "Tha Ruea",
+        "Nakhon Luang",
+        "Bang Sai",
+        "Bang Ban",
+        "Bang Pa-In",
+        "Bang Pahan",
+        "Phak Hai",
+        "Phachi",
+        "Lat Bua Luang",
+        "Wang Noi",
+        "Sena",
+        "Bang Sai",
+        "Uthai",
+        "Maha Rat",
+        "Ban Phraek"
+      ]
+    },
+    {
+      "name": "ภูเก็ต",
+      "nameEn": "Phuket",
+      "districts": [
+        "Mueang Phuket",
+        "Kathu",
+        "Thalang"
+      ]
+    },
+    {
+      "name": "ปราจีนบุรี",
+      "nameEn": "Prachin Buri",
+      "districts": [
+        "Mueang Prachin Buri",
+        "Kabin Buri",
+        "Na Di",
+        "Ban Sang",
+        "Prachantakham",
+        "Si Maha Phot",
+        "Si Mahosot"
+      ]
+    },
+    {
+      "name": "ประจวบคีรีขันธ์",
+      "nameEn": "Prachuap Khiri Khan",
+      "districts": [
+        "Mueang Prachuap Khiri Khan",
+        "Kui Buri",
+        "Thap Sakae",
+        "Bang Saphan",
+        "Bang Saphan Noi",
+        "Pran Buri",
+        "Hua Hin",
+        "Sam Roi Yot"
+      ]
+    },
+    {
+      "name": "ระนอง",
+      "nameEn": "Ranong",
+      "districts": [
+        "Mueang Ranong",
+        "La-Un",
+        "Papoe",
+        "Kra Buri",
+        "Suk Samran"
+      ]
+    },
+    {
+      "name": "ราชบุรี",
+      "nameEn": "Ratchaburi",
+      "districts": [
+        "Mueang Ratchaburi",
+        "Chom Bueng",
+        "Suan Phueng",
+        "Damnoen Saduak",
+        "Ban Pong",
+        "Bang Phae",
+        "Photharam",
+        "Pak Tho",
+        "Wat Phleng",
+        "Ban Kha"
+      ]
+    },
+    {
+      "name": "ระยอง",
+      "nameEn": "Rayong",
+      "districts": [
+        "Mueang Rayong",
+        "Ban Chang",
+        "Klaeng",
+        "Wang Chan",
+        "Ban Khai",
+        "Pluak Daeng",
+        "Khao Chamao",
+        "Nikhom Phatthana"
+      ]
+    },
+    {
+      "name": "ร้อยเอ็ด",
+      "nameEn": "Roi Et",
+      "districts": [
+        "Mueang Roi Et",
+        "Kaset Wisai",
+        "Pathum Rat",
+        "Chaturaphak Phiman",
+        "Thawat Buri",
+        "Phanom Phrai",
+        "Phon Thong",
+        "Pho Chai",
+        "Nong Phok",
+        "Selaphum",
+        "Suwannaphum",
+        "Mueang Suang",
+        "Phon Sai",
+        "At Samat",
+        "Moei Wadi",
+        "Si Somdet",
+        "Changhan",
+        "Chiang Khwan",
+        "Nong Hi",
+        "Thung Khao Luang"
+      ]
+    },
+    {
+      "name": "สระแก้ว",
+      "nameEn": "Sa Kaeo",
+      "districts": [
+        "Mueang Sa Kaeo",
+        "Khlong Hat",
+        "Ta Phraya",
+        "Wang Nam Yen",
+        "Watthana Nakhon",
+        "Aranyaprathet",
+        "Khao Chakan",
+        "Khok Sung",
+        "Wang Sombun"
+      ]
+    },
+    {
+      "name": "สกลนคร",
+      "nameEn": "Sakon Nakhon",
+      "districts": [
+        "Mueang Sakon Nakhon",
+        "Kusuman",
+        "Kut Bak",
+        "Phanna Nikhom",
+        "Phanh Khon",
+        "Waritchaphum",
+        "Nikhom Nam Un",
+        "Wanon Niwat",
+        "Kham Ta Kla",
+        "Ban Muang",
+        "Akat Amnuai",
+        "Sawang Daen Din",
+        "Song Dao",
+        "Tao Ngoi",
+        "Khok Si Suphan",
+        "Charoen Sin",
+        "Phon Na Kaeo",
+        "Phu Phan"
+      ]
+    },
+    {
+      "name": "สมุทรปราการ",
+      "nameEn": "Samut Prakan",
+      "districts": [
+        "Mueang Samut Prakan",
+        "Bang Bo",
+        "Bang Phli",
+        "Phra Pradaeng",
+        "Phra Samut Chedi",
+        "Bang Sao Thong"
+      ]
+    },
+    {
+      "name": "สมุทรสาคร",
+      "nameEn": "Samut Sakhon",
+      "districts": [
+        "Mueang Samut Sakhon",
+        "Krathum Baen",
+        "Ban Phaeo"
+      ]
+    },
+    {
+      "name": "สมุทรสงคราม",
+      "nameEn": "Samut Songkhram",
+      "districts": [
+        "Mueang Samut Songkhram",
+        "Bang Khonthi",
+        "Amphawa"
+      ]
+    },
+    {
+      "name": "สระบุรี",
+      "nameEn": "Saraburi",
+      "districts": [
+        "Mueang Saraburi",
+        "Kaeng Khoi",
+        "Nong Khae",
+        "Wihan Daeng",
+        "Nong Saeng",
+        "Ban Mo",
+        "Don Phut",
+        "Nong Don",
+        "Phra Phutthabat",
+        "Sao Hai",
+        "Muak Lek",
+        "Wang Muang",
+        "Chaloem Phra Kiet"
+      ]
+    },
+    {
+      "name": "สตูล",
+      "nameEn": "Satun",
+      "districts": [
+        "Mueang Satun",
+        "Khuan Don",
+        "Khuan Kalong",
+        "Tha Phae",
+        "La-Ngu",
+        "Thung Wa",
+        "Manang"
+      ]
+    },
+    {
+      "name": "สิงห์บุรี",
+      "nameEn": "Sing Buri",
+      "districts": [
+        "Mueang Sing Buri",
+        "Bang Rachan",
+        "Khai Bang Rachan",
+        "Phrom Buri",
+        "Tha Chang",
+        "In Buri"
+      ]
+    },
+    {
+      "name": "ศรีสะเกษ",
+      "nameEn": "Si Sa Ket",
+      "districts": [
+        "Mueang Si Sa Ket",
+        "Yang Chum Noi",
+        "Kanthararom",
+        "Kantharalak",
+        "Khukhan",
+        "Phrai Bueng",
+        "Prang Ku",
+        "Khun Han",
+        "Rasi Salai",
+        "Uthumphon Phisai",
+        "Bueng Bun",
+        "Huai Thap Than",
+        "Non Khun",
+        "Si Rattana",
+        "Nam Kliang",
+        "Wang Hin",
+        "Phu Sing",
+        "Mueang Chan",
+        "Benchalak",
+        "Phayu",
+        "Pho Si Suwan",
+        "Sila Lat"
+      ]
+    },
+    {
+      "name": "สงขลา",
+      "nameEn": "Songkhla",
+      "districts": [
+        "Muaeng Songkhla",
+        "Sathing Phra",
+        "Chana",
+        "Na Thawi",
+        "Thepha",
+        "Saba Yoi",
+        "Ranot",
+        "Krasae Sin",
+        "Rattaphum",
+        "Sadao",
+        "Hat Yai",
+        "Na Mom",
+        "Khuan Niang",
+        "Bang Klam",
+        "Singhanakhon",
+        "Khlong Hoi Khong"
+      ]
+    },
+    {
+      "name": "สุโขทัย",
+      "nameEn": "Sukhothai",
+      "districts": [
+        "Mueang Sukhothai",
+        "Ban Dan Lan Hoi",
+        "Khiri Mat",
+        "Kong Krailat",
+        "Si Satchanalai",
+        "Si Samrong",
+        "Sawankhalok",
+        "Si Nakhon",
+        "Thung Saliam"
+      ]
+    },
+    {
+      "name": "สุพรรณบุรี",
+      "nameEn": "Suphan Buri",
+      "districts": [
+        "Mueang Saphan Buri",
+        "Doem Bang Nang Buat",
+        "Dan Chang",
+        "Bang Pla Ma",
+        "Si Prachan",
+        "Don Chedi",
+        "Song Phi Nong",
+        "Sam Chuk",
+        "U Thong",
+        "Nong Ya Sai"
+      ]
+    },
+    {
+      "name": "สุราษฎร์ธานี",
+      "nameEn": "Surat Thani",
+      "districts": [
+        "Mueang Surat Thani",
+        "Kanchanadit",
+        "Don Sak",
+        "Ko Samui",
+        "Ko Pha-Ngan",
+        "Chaiya",
+        "Tha Chana",
+        "Khiri Rat Nikhom",
+        "Ban Ta Khun",
+        "Phanom",
+        "Tha Chang",
+        "Ban Na San",
+        "Ban Na Doem",
+        "Khian Sa",
+        "Wiang Sa",
+        "Phrasaeng",
+        "Phunphin",
+        "Chai Buri",
+        "Chai Buri"
+      ]
+    },
+    {
+      "name": "สุรินทร์",
+      "nameEn": "Surin",
+      "districts": [
+        "Mueang Surin",
+        "Chumphon Buri",
+        "Tha Tum",
+        "Chom Phra",
+        "Prasat",
+        "Kap Choeng",
+        "Rattanaburi",
+        "Sanom",
+        "Sikhoraphum",
+        "Sangkha",
+        "Lamduan",
+        "Samrong Thap",
+        "Buachet",
+        "Phanom Dong Rak",
+        "Si Narong",
+        "Khwao Sinarin",
+        "Non Narai"
+      ]
+    },
+    {
+      "name": "ตาก",
+      "nameEn": "Tak",
+      "districts": [
+        "Mueang Tak",
+        "Ban Tak",
+        "Sam Ngao",
+        "Mae Ramat",
+        "Tha Song Yang",
+        "Mae Sot",
+        "Phop Phra",
+        "Um Phang",
+        "Wang Chao"
+      ]
+    },
+    {
+      "name": "ตรัง",
+      "nameEn": "Trang",
+      "districts": [
+        "Mueang Trang",
+        "Kantang",
+        "Yan Ta Khao",
+        "Palian",
+        "Sikao",
+        "Huai Yot",
+        "Wang Wiset",
+        "Na Yong",
+        "Ratsada",
+        "Hat Samran"
+      ]
+    },
+    {
+      "name": "ตราด",
+      "nameEn": "Trat",
+      "districts": [
+        "Mueang Trat",
+        "Khlong Yai",
+        "Khao Saming",
+        "Bo Rai",
+        "Laem Ngop",
+        "Ko Kut",
+        "Ko Chang"
+      ]
+    },
+    {
+      "name": "อุบลราชธานี",
+      "nameEn": "Ubon Ratchathani",
+      "districts": [
+        "Mueang Ubon Ratchathani",
+        "Si Mueang Mai",
+        "Khong Chiam",
+        "Khueang Nai",
+        "Khemarat",
+        "Det Udom",
+        "Na Chaluai",
+        "Nam Yuen",
+        "Boontharik",
+        "Trakan Phuet Phon",
+        "Kut Khaopun",
+        "Muang Sam Sip",
+        "Warin Chamrap",
+        "Phibun Mangsahan",
+        "Tan Sum",
+        "Pho Sai",
+        "Samrong",
+        "Don Mot Daeng",
+        "Sirindhorn",
+        "Thung Si Udom",
+        "Na Yia",
+        "Na Tan",
+        "Lao Suea Kok",
+        "Sawang Wirawong",
+        "Nam Khun"
+      ]
+    },
+    {
+      "name": "อุดรธานี",
+      "nameEn": "Udon Thani",
+      "districts": [
+        "Mueang Udon Thani",
+        "Kut Chap",
+        "Nong Wua So",
+        "Kumphawapi",
+        "Non Sa-At",
+        "Nong Saeng",
+        "Thung Fon",
+        "Chai Wan",
+        "Si That",
+        "Wang Sam Mo",
+        "Ban Dung",
+        "Ban Phue",
+        "Nam Som",
+        "Phen",
+        "Sang Khom",
+        "Nong Saeng",
+        "Na Yung",
+        "Phibun Rak",
+        "Ku Kaeo",
+        "Prachaksinlapakhom"
+      ]
+    },
+    {
+      "name": "อุทัยธานี",
+      "nameEn": "Uthai Thani",
+      "districts": [
+        "Mueang Uthai Thani",
+        "Thap Than",
+        "Sawang Arom",
+        "Nong Chang",
+        "Nong Khayang",
+        "Ban Rai",
+        "Lan Sak",
+        "Huai Khot"
+      ]
+    },
+    {
+      "name": "อุตรดิตถ์",
+      "nameEn": "Uttaradit",
+      "districts": [
+        "Mueang Uttaradit",
+        "Tron",
+        "Tha Pla",
+        "Nam Pat",
+        "Fak Tha",
+        "Ban Khok",
+        "Phichai",
+        "Laplae",
+        "Thong Saen Khan"
+      ]
+    },
+    {
+      "name": "ยะลา",
+      "nameEn": "Yala",
+      "districts": [
+        "Mueang Yala",
+        "Betong",
+        "Bannang Sata",
+        "Than To",
+        "Yaha",
+        "Raman",
+        "Kabang",
+        "Krong Pinang"
+      ]
+    },
+    {
+      "name": "ยโสธร",
+      "nameEn": "Yasothon",
+      "districts": [
+        "Mueang Yasothon",
+        "Sai Mun",
+        "Kut Chum",
+        "Kham Khuean Kaeo",
+        "Pa Tio",
+        "Maha Chana Chai",
+        "Kho Wang",
+        "Loeng Nok Tha",
+        "Thai Charoen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "tourism-app-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --use-system-ca --watch src/server.js",
+    "start": "node --use-system-ca src/server.js",
+    "seed": "node src/seed/seed.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.18.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.0"
+  }
+}
