@@ -12,3 +12,8 @@ web-build/
 
 # Logs
 npm-debug.log*
+
+#etc
+instructions
+copilot-instructions.md
+requirement.md
